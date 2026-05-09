@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Descripción del proyecto
+## Descripción del proyecto
 
 Este repositorio forma parte del proyecto final del curso **Desarrollador Oracle SQL-PL/SQL** impartido por **CAS Training**.  
 Su objetivo es recopilar, organizar y documentar todos los ejercicios, prácticas y apuntes realizados durante la formación, creando un recurso útil para consulta futura y desarrollo profesional.
@@ -19,7 +19,7 @@ El contenido incluye:
 
 ---
 
-## 📂 Contenido del repositorio
+## Contenido del repositorio
 
 Este repositorio **ANSI-SQL** incluye:
 
@@ -31,7 +31,7 @@ Este repositorio **ANSI-SQL** incluye:
 
 ---
 
-## 🎯 Objetivos del proyecto
+## Objetivos del proyecto
 
 - Consolidar conocimientos de SQL mediante práctica real.
 - Diseñar y manipular estructuras de bases de datos.
@@ -39,7 +39,7 @@ Este repositorio **ANSI-SQL** incluye:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Oracle Database**
 - **Oracle SQL Developer**
