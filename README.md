@@ -1,4 +1,4 @@
-# Proyecto SQL y PL/SQL – CAS Training  
+# Proyecto SQL – CAS Training  
 **Autor:** Jorge Carlos Salinas López  
 **Curso:** Desarrollador Oracle SQL – PL/SQL  
 **Duración:** 130 horas  
